@@ -1,0 +1,8 @@
+﻿  Function.cpp
+  main.cpp
+C:\Users\Student\source\repos\lab2\lab2\main.cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Student\source\repos\lab2\lab2\main.cpp(36): warning C4101: k: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\Student\source\repos\lab2\lab2\Function.cpp(71): warning C4715: choice: значение возвращается не при всех путях выполнения
+main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "void __cdecl fold(double *,unsigned int,double (__cdecl*)(double,double),double *)" (?fold@@YAXPANIP6ANNN@Z0@Z) т ЇєэъЎшш _main
+C:\Users\Student\source\repos\lab2\Debug\lab2.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1
